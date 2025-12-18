@@ -1,2 +1,2 @@
 # learning-git
-Learning and practicing git
+Learning and practicing git.
